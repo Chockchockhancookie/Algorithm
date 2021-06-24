@@ -7,7 +7,7 @@ def move_wall(x, y):
 
 
 def dfs(x, y):
-
+    return
 
 graph = [list(input()) for _ in range(8)]
 human_x, human_y = 7, 0
