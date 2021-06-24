@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/구현/1052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구현/2002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프/10451.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프/16954.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프/2206.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백트래킹/14888.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp/11060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp/1309.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/구현/16113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/그래프/10026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/그래프/1261.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/그래프/1600.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/그래프/1743.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/그래프/1976.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/그래프/2667.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/그래프/5014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다익스트라/10282.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다익스트라/4485.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/브루트포스/1051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/브루트포스/6603.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그래프/1939.py" beforeDir="false" afterPath="$PROJECT_DIR$/그래프/1939.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/그래프/2206.py" beforeDir="false" afterPath="$PROJECT_DIR$/그래프/2206.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/그래프/4179.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/11052.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.10451">
+  <component name="RunManager" selected="Python.1600">
     <configuration name="10451" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14888" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1309" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백트래킹" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백트래킹/14888.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/1309.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1939" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1600" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프/1939.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프/1600.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1976" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그래프" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/2002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프/1976.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10451" />
+        <item itemvalue="Python.1600" />
+        <item itemvalue="Python.1976" />
         <item itemvalue="Python.2206" />
-        <item itemvalue="Python.2002" />
-        <item itemvalue="Python.1939" />
-        <item itemvalue="Python.14888" />
+        <item itemvalue="Python.1309" />
+        <item itemvalue="Python.10451" />
       </list>
     </recent_temporary>
   </component>

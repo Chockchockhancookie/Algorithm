@@ -10,7 +10,7 @@ def bfs():
     visited[0][0][1] = 1
     while queue:
         x, y, w = queue.popleft()
-        print(x, y)
+        print(visited)
         if x == n - 1 and y == m - 1:
             return visited[x][y][w]
         for i in range(4):
@@ -18,7 +18,7 @@ def bfs():
             ny = y + dy[i]
             if 0 <= nx < n and 0 <= ny < m:
                 if graph[nx][ny] == 1 and w == 1:
-                    visited[nx][ny][0] =   visited[x][y][1] + 1
+                    visited[nx][ny][0] = visited[x][y][1] + 1
                     queue.append([nx, ny, 0])
                 elif graph[nx][ny] == 0 and visited[nx][ny][w] == 0:
                     visited[nx][ny][w] = visited[x][y][w] + 1
@@ -28,7 +28,6 @@ def bfs():
 
 n, m = map(int, input().split())
 graph = [list(map(int, input().strip())) for _ in range(n)]
-
 
 dx = [1, 0, -1, 0]
 dy = [0, -1, 0, 1]
