@@ -16,6 +16,7 @@ def bfs(start):
                     return True
     return False
 
+
 t = int(input())
 
 answer = []
