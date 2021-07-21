@@ -7,4 +7,3 @@ x, y = map(int, input().split())
 
 person = []
 for _ in range(m):
-    
