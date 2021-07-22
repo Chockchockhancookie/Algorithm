@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9466.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구현/1011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/문자열/5525.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/문자열/9935.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자열/1062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자열/4889.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19238.py" beforeDir="false" afterPath="$PROJECT_DIR$/19238.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문자열/5525.py" beforeDir="false" afterPath="$PROJECT_DIR$/문자열/5525.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
       <recent name="C:\Users\이대홍\python_algorithm\그래프" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5525">
+  <component name="RunManager" selected="Python.4889">
     <configuration name="1011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19238" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4889" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19238.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/4889.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4889" />
         <item itemvalue="Python.5525" />
         <item itemvalue="Python.9935" />
         <item itemvalue="Python.9466" />
         <item itemvalue="Python.1011" />
-        <item itemvalue="Python.19238" />
       </list>
     </recent_temporary>
   </component>
