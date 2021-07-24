@@ -1,38 +1,34 @@
-from collections import deque
-INF = int(1e9)
+import heapq
+import sys
+input = sys.stdin.readline
 
 
-def bfs():
-    visited = [[INF] * n for _ in range(n)]
-    visited[0][0] = 0
-    queue = deque()
-    queue.append((0, 0, 0))
+def dijkstra():
+    queue = []
+    visited[0][0] = True
+    heapq.heappush(queue, (0, 0, 0))  # cost, x, y
     while queue:
-        x, y, cost = queue.popleft()
-        print(x, y, cost)
+        cost, x, y = heapq.heappop(queue)
+        if x == n-1 and y == n-1:
+            return cost
         for i in range(4):
             nx = x + dx[i]
             ny = y + dy[i]
-            if nx < 0 or ny < 0 or nx >= n or ny >= n:
-                continue
-            if graph[nx][ny] == 0:
-                temp = cost + 1
-                if visited[nx][ny] < temp:
-                    continue
-                queue.append((nx, ny, temp))
-            else:
-                if visited[nx][ny] < cost:
-                    continue
-                else:
-                    visited[nx][ny] = cost
-                    queue.append((nx, ny, cost))
-    return visited[n-1][n-1]
+            if 0 <= nx < n and 0 <= ny < n:
+                if not visited[nx][ny] and graph[nx][ny] == 0:
+                    visited[nx][ny] = True
+                    heapq.heappush(queue, (cost+1, nx, ny))
+                elif not visited[nx][ny] and graph[nx][ny] == 1:
+                    visited[nx][ny] = True
+                    heapq.heappush(queue, (cost, nx, ny))
 
 
 n = int(input())
-graph = [list(map(int, input())) for _ in range(n)]
+
+graph = [list(map(int, input().rstrip())) for _ in range(n)]
+visited = [[False] * n for _ in range(n)]
 
 dx = [1, 0, -1, 0]
-dy = [0, 1, 0, -1]
+dy = [0, -1, 0, 1]
 
-print(bfs())
+print(dijkstra())
