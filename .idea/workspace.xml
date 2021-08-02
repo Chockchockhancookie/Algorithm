@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dp/10844.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/11727.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/2294.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/9465.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그리디/13904.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그리디/8980.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/11057.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/11057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/그리디/8980.py" beforeDir="false" afterPath="$PROJECT_DIR$/그리디/8980.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
