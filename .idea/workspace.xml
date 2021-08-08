@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1629.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1874.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프/1238.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프/1504.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다익스트라/1389.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스/1018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스/1085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스/1259.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스/1436.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스/18111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/1181.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1541.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/구현/1620.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/구현/18428.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/벨만포드/1865.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1012.py" beforeDir="false" afterPath="$PROJECT_DIR$/그래프/1012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1874.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스/1874.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/벨만포드/11657.py" beforeDir="false" afterPath="$PROJECT_DIR$/벨만포드/11657.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/벨만포드/18428.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,15 +51,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\이대홍\python_algorithm\구현" />
+      <recent name="C:\Users\이대홍\python_algorithm\백트래킹" />
+      <recent name="C:\Users\이대홍\python_algorithm\벨만포드" />
       <recent name="C:\Users\이대홍\python_algorithm\브루트포스" />
       <recent name="C:\Users\이대홍\python_algorithm\정렬" />
-      <recent name="C:\Users\이대홍\python_algorithm\다익스트라" />
-      <recent name="C:\Users\이대홍\python_algorithm\그래프" />
-      <recent name="C:\Users\이대홍\python_algorithm\dp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1874">
-    <configuration name="1085" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1620">
+    <configuration name="11657" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/벨만포드" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\브루트포스\1085.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/벨만포드/11657.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1181" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1620" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\정렬\1181.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\1620.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1259" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18428" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백트래킹" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\브루트포스\1259.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\18428.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1436" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1865" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\브루트포스\1436.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\벨만포드\1865.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1874.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\브루트포스\1874.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1620" />
+        <item itemvalue="Python.18428" />
+        <item itemvalue="Python.11657" />
+        <item itemvalue="Python.1865" />
         <item itemvalue="Python.1874" />
-        <item itemvalue="Python.1436" />
-        <item itemvalue="Python.1259" />
-        <item itemvalue="Python.1181" />
-        <item itemvalue="Python.1085" />
       </list>
     </recent_temporary>
   </component>
