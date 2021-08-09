@@ -1,6 +1,3 @@
-import sys
-input = sys.stdin.readline
-
 data = input()
 data = data.split('-')
 
@@ -10,6 +7,7 @@ for i in data:
     num.append(sum(temp))
 
 count = num[0]
+
 for i in num[1:]:
     count -= i
 

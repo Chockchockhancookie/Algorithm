@@ -1,18 +1,16 @@
 import sys
+input = sys.stdin.readline
 
-n = int(sys.stdin.readline())
+n = int(input())
 time_table = []
 
 for _ in range(n):
-    s, e = map(int, sys.stdin.readline().split())
+    s, e = map(int, input().split())
     time_table.append([s, e])
 
 table = [[0, 1]]
 
-print(time_table)
 time_table.sort(key=lambda x: (x[1], x[0], -x[3]))
-print(time_table)
-
 
 count = 1
 end_time = time_table[0][1]
