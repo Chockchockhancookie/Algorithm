@@ -10,4 +10,4 @@ def find(x):
 
 
 a, b, c = map(int, input().split())
-print(find(b))
+print(find(b)) 

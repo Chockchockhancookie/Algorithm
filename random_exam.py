@@ -1,24 +1,14 @@
-import sys
+n, m = map(int, input().split())
+data = [list(map(int, input().split())) for _ in range(n)]
 
-n = int(sys.stdin.readline())
-time_table = []
+for a in range(n):
+    for b in range(m):
+        print(data[a][b], end=" ")
+    print()
+print()
 
-for _ in range(n):
-    s, e = map(int, sys.stdin.readline().split())
-    time_table.append([s, e])
-
-table = [[0, 1]]
-
-print(time_table)
-time_table.sort(key=lambda x: (x[1], x[0], -x[3]))
-print(time_table)
-
-
-count = 1
-end_time = time_table[0][1]
-for i in range(1, n):
-    if time_table[i][0] >= end_time:
-        count += 1
-        end_time = time_table[i][1]
-
-print(count)
+array = data[:]
+for a in range(n):
+    for b in range(m):
+        print(array[a][b], end=" ")
+    print()
