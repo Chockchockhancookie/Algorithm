@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17939.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프/3109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이진탐색/1072.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1072.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_exam.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +48,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\이대홍\python_algorithm\이진탐색" />
       <recent name="C:\Users\이대홍\python_algorithm\그래프" />
       <recent name="C:\Users\이대홍\python_algorithm\구현" />
       <recent name="C:\Users\이대홍\python_algorithm\다익스트라" />
       <recent name="C:\Users\이대홍\python_algorithm\브루트포스" />
-      <recent name="C:\Users\이대홍\python_algorithm\그리디" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1072">
+  <component name="RunManager" selected="Python.random_exam">
     <configuration name="1072" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1072.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\이진탐색\1072.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9518" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="random_exam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +173,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\9518.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_exam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.random_exam" />
         <item itemvalue="Python.1072" />
         <item itemvalue="Python.17939" />
         <item itemvalue="Python.3109" />
         <item itemvalue="Python.6087" />
-        <item itemvalue="Python.9518" />
       </list>
     </recent_temporary>
   </component>
