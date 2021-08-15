@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2792.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/2096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다익스트라/20007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이진탐색/1756.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2096.py" beforeDir="false" />
-    </list>
+    <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="0815" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2792.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\이진탐색\2792.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,6 +195,14 @@
       <option name="presentableId" value="Default" />
       <updated>1623249861753</updated>
     </task>
+    <task id="LOCAL-00001" summary="0815">
+      <created>1629036683385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629036683385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,5 +216,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0815" />
+    <option name="LAST_COMMIT_MESSAGE" value="0815" />
   </component>
 </project>
