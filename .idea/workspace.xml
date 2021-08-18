@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="0816">
-      <change afterPath="$PROJECT_DIR$/구현/1074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구현/1874.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구현/1920.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구현/2109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그리디/2457.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스/1107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스/브루트 포스(brute force).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이진탐색/1654.py" afterDir="false" />
+    <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="0818">
+      <change afterPath="$PROJECT_DIR$/구현/1929.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/구현/1966.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/꼭 다시 풀어볼 문제/1865.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다익스트라/1916.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/못풀고 있는 문제/1918.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1074.py" beforeDir="false" afterPath="$PROJECT_DIR$/1966.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1107.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15683.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/15683.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16235.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/16235.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16236.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/16236.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17939.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/17939.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19238.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/19238.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2109.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2150.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/2150.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2457.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4196.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/4196.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9466.py" beforeDir="false" afterPath="$PROJECT_DIR$/그래프/9466.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_exam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1966.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,36 +51,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\이대홍\python_algorithm\구현" />
-      <recent name="C:\Users\이대홍\python_algorithm\이진탐색" />
-      <recent name="C:\Users\이대홍\python_algorithm\브루트포스" />
-      <recent name="C:\Users\이대홍\python_algorithm\그리디" />
       <recent name="C:\Users\이대홍\python_algorithm\못풀고 있는 문제" />
+      <recent name="C:\Users\이대홍\python_algorithm\꼭 다시 풀어볼 문제" />
+      <recent name="C:\Users\이대홍\python_algorithm\벨만포드" />
+      <recent name="C:\Users\이대홍\python_algorithm\다익스트라" />
+      <recent name="C:\Users\이대홍\python_algorithm\구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1966">
-    <configuration name="1107" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/못풀고 있는 문제" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\브루트포스\1107.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1654" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1918">
+    <configuration name="1629" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\이진탐색\1654.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1629.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1874" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1865" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\1874.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\꼭 다시 풀어볼 문제\1865.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1920" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1916" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\1920.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\다익스트라\1916.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1966" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1918" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,7 +134,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1966.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\못풀고 있는 문제\1918.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1929" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\1929.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1966" />
-        <item itemvalue="Python.1920" />
-        <item itemvalue="Python.1874" />
-        <item itemvalue="Python.1654" />
-        <item itemvalue="Python.1107" />
+        <item itemvalue="Python.1918" />
+        <item itemvalue="Python.1629" />
+        <item itemvalue="Python.1865" />
+        <item itemvalue="Python.1916" />
+        <item itemvalue="Python.1929" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629120192819</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0818">
+      <created>1629253057897</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629253057899</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,6 +231,7 @@
     <MESSAGE value="0815" />
     <MESSAGE value="confirm" />
     <MESSAGE value="0816" />
-    <option name="LAST_COMMIT_MESSAGE" value="0816" />
+    <MESSAGE value="0818" />
+    <option name="LAST_COMMIT_MESSAGE" value="0818" />
   </component>
 </project>
