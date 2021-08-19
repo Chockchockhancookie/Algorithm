@@ -1,30 +1,32 @@
-def find_money():
-    money = 0
-    num = 0
-    for data in datas:
-        if mid < data:
-            return m+1
-        if money >= data:
-            money -= data
+import sys
+input = sys.stdin.readline
+
+
+def count(array, x):
+    tmp, cnt = 0, 0
+    for money in array:
+        if tmp+money > x:
+            cnt += 1
+            tmp = money
         else:
-            money = mid - data
-            num += 1
-    return num
+            tmp += money
+
+    return cnt+1
 
 
 n, m = map(int, input().split())
-datas = [int(input()) for _ in range(n)]
+data = [int(input()) for _ in range(n)]
 
-answer = int(1e9)
+start, end = max(data), sum(data)
 
-start, end = 0, int(1e9)
+answer = 0
 while start <= end:
-    mid = (start+end) // 2
-    tmp = find_money()
-    if tmp > m:
-        start = mid+1
-    else:
-        answer = min(answer, mid)
+    mid = (start+end)//2
+    check = True
+    if count(data, mid) <= m:
         end = mid-1
+        answer = mid
+    else:
+        start = mid+1
 
 print(answer)
