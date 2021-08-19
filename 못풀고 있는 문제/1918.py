@@ -11,6 +11,6 @@ for txt in data:
     else:
         if txt == "(":
             stack.append(txt)
-        elif x ==
-
+        elif x ==1:
+            pass
 print(answer)
