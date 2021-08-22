@@ -40,6 +40,7 @@ for a, b in cow:
                         visited[nx][ny] = False
                         if graph[nx][ny]:
                             count += 1
+        print(a, b, k, count)
         answer += (k-count)
 
 print(answer)

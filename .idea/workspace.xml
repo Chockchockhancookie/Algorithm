@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="0820">
-      <change afterPath="$PROJECT_DIR$/14466.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15685.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16235.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프/15591.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/구현/16918.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/구현/16967.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/그래프/17182.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다익스트라/20046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/못풀고 있는 문제/15685.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16234.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/16234.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14466.py" beforeDir="false" afterPath="$PROJECT_DIR$/그래프/14466.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15685.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16235.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/못풀고 있는 문제/16235.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/16235.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +55,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\이대홍\python_algorithm\못풀고 있는 문제" />
+      <recent name="C:\Users\이대홍\python_algorithm\다익스트라" />
       <recent name="C:\Users\이대홍\python_algorithm\그래프" />
       <recent name="C:\Users\이대홍\python_algorithm\구현" />
-      <recent name="C:\Users\이대홍\python_algorithm\못풀고 있는 문제" />
       <recent name="C:\Users\이대홍\python_algorithm\이진탐색" />
-      <recent name="C:\Users\이대홍\python_algorithm\꼭 다시 풀어볼 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14466">
-    <configuration name="14466" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.22116">
+    <configuration name="16967" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14466.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\16967.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14889" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17140" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\14889.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17140.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15591" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17182" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\그래프\15591.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\그래프\17182.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16234" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20046" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\16234.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\다익스트라\20046.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3273" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22116" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\3273.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22116.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.14466" />
-        <item itemvalue="Python.15591" />
-        <item itemvalue="Python.16234" />
-        <item itemvalue="Python.14889" />
-        <item itemvalue="Python.3273" />
+        <item itemvalue="Python.22116" />
+        <item itemvalue="Python.20046" />
+        <item itemvalue="Python.17140" />
+        <item itemvalue="Python.17182" />
+        <item itemvalue="Python.16967" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629460647034</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="0821">
+      <created>1629551328813</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629551328813</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +275,7 @@
     <MESSAGE value="0819" />
     <MESSAGE value="0819_final" />
     <MESSAGE value="0820" />
-    <option name="LAST_COMMIT_MESSAGE" value="0820" />
+    <MESSAGE value="0821" />
+    <option name="LAST_COMMIT_MESSAGE" value="0821" />
   </component>
 </project>
