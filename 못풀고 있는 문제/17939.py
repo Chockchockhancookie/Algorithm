@@ -2,12 +2,14 @@ import sys
 input = sys.stdin.readline
 
 n = int(input())
-coin = list(map(int, input().split()))
+data = list(map(int, input().split()))
 
-stack = []
-max_value = 0
+start = 0
 answer = 0
-for i in range(len(coin)):
-    pass
+while start <= n-1:
+    max_value = max(data[start:])
+    idx = start + data[start:].index(max_value)
+    answer += max_value * (idx-start) - sum(data[start:idx])
+    start = idx+1
 
 print(answer)
