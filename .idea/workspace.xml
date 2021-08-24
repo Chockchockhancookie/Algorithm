@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="0820">
-      <change afterPath="$PROJECT_DIR$/2302.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MST/1197.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MST/13905.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MST/1922.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다익스트라/22116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13335.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22116.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_exam.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/못풀고 있는 문제/17939.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/17939.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/못풀고 있는 문제/17939.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/17939.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +47,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\이대홍\python_algorithm\구현" />
       <recent name="C:\Users\이대홍\python_algorithm\MST" />
       <recent name="C:\Users\이대홍\python_algorithm\다익스트라" />
       <recent name="C:\Users\이대홍\python_algorithm\못풀고 있는 문제" />
       <recent name="C:\Users\이대홍\python_algorithm\그래프" />
-      <recent name="C:\Users\이대홍\python_algorithm\구현" />
     </key>
   </component>
   <component name="RunManager" selected="Python.17939">
@@ -115,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/못풀고 있는 문제/17939.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\17939.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629638878426</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="0823">
+      <created>1629725727326</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1629725727329</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +283,7 @@
     <MESSAGE value="0820" />
     <MESSAGE value="0821" />
     <MESSAGE value="0822" />
-    <option name="LAST_COMMIT_MESSAGE" value="0822" />
+    <MESSAGE value="0823" />
+    <option name="LAST_COMMIT_MESSAGE" value="0823" />
   </component>
 </project>
