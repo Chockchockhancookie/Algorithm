@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="0820">
-      <change afterPath="$PROJECT_DIR$/그래프/3055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/구현/13335.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/못풀고 있는 문제/13335.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/13335.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17471.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/17471.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/못풀고 있는 문제/13335.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/못풀고 있는 문제/16236.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/16236.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +49,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\이대홍\python_algorithm\꼭 다시 풀어볼 문제" />
+      <recent name="C:\Users\이대홍\python_algorithm\못풀고 있는 문제" />
+      <recent name="C:\Users\이대홍\python_algorithm\구현" />
       <recent name="C:\Users\이대홍\python_algorithm\그래프" />
       <recent name="C:\Users\이대홍\python_algorithm\dp" />
-      <recent name="C:\Users\이대홍\python_algorithm\구현" />
-      <recent name="C:\Users\이대홍\python_algorithm\못풀고 있는 문제" />
-      <recent name="C:\Users\이대홍\python_algorithm\MST" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13335">
+  <component name="RunManager" selected="Python.16236">
     <configuration name="13335" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +69,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/못풀고 있는 문제/13335.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\13335.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16236" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/못풀고 있는 문제" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\꼭 다시 풀어볼 문제\16236.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,28 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17471.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1764" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\구현\1764.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\못풀고 있는 문제\17471.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16236" />
         <item itemvalue="Python.13335" />
         <item itemvalue="Python.3055" />
         <item itemvalue="Python.17471" />
         <item itemvalue="Python.2302" />
-        <item itemvalue="Python.1764" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629986855202</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="0827">
+      <created>1630074462412</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1630074462413</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,6 +317,7 @@
     <MESSAGE value="0824" />
     <MESSAGE value="0825" />
     <MESSAGE value="0826" />
-    <option name="LAST_COMMIT_MESSAGE" value="0826" />
+    <MESSAGE value="0827" />
+    <option name="LAST_COMMIT_MESSAGE" value="0827" />
   </component>
 </project>
