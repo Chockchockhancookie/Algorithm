@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="0820">
-      <change afterPath="$PROJECT_DIR$/2447.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/11726.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구현/9020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/분할정복/1780.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/분할정복/1992.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/분할정복/2630.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2138.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/1929.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/1929.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2447.py" beforeDir="false" afterPath="$PROJECT_DIR$/2447.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630156429523</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="0829">
+      <created>1630240252022</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1630240252024</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,6 +331,7 @@
     <MESSAGE value="0826" />
     <MESSAGE value="0827" />
     <MESSAGE value="0828" />
-    <option name="LAST_COMMIT_MESSAGE" value="0828" />
+    <MESSAGE value="0829" />
+    <option name="LAST_COMMIT_MESSAGE" value="0829" />
   </component>
 </project>
