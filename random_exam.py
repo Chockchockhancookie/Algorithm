@@ -1,3 +1,5 @@
-n = 10
-for i in range(n, 0, -1):
-    print(i)
+data = ["SI JAVA JAVASCRIPT SQL PYTHON C#", "CONTENTS JAVASCRIPT JAVA PYTHON SQL C++", "HARDWARE C C++ PYTHON JAVA JAVASCRIPT", "PORTAL JAVA JAVASCRIPT PYTHON KOTLIN PHP", "GAME C++ C# JAVASCRIPT C JAVA"]
+
+for txt in data:
+    print(txt)
+    print(list(txt.split(" ")))
