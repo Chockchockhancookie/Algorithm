@@ -33,13 +33,16 @@ parent = [0] * (n+1)
 for i in range(1, n+1):
     parent[i] = i
 
+count = 0
 answer = 0
-visited = [0] * (n+1)
 for edge in edges:
     cost, x, y = edge
     if find_parent(parent, x) != find_parent(parent, y):
         union_parent(parent, x, y)
-        visited[x], visited[y] = 1, 1
         answer += cost
+        count += 1
 
-print(sum_value - answer)
+if count == n-1:
+    print(sum_value - answer)
+else:
+    print(-1)
