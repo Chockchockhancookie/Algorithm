@@ -5,7 +5,7 @@ input = sys.stdin.readline
 
 def bfs(count):
     if count == 3:
-        for
+        pass
     for i in range(n):
         for j in range(m):
             if not visited[i][j]:
@@ -20,3 +20,4 @@ n, m, d = map(int, input().split())
 graph = [list(map(int, input().split())) for _ in range(n)]
 
 visited = [[False] * m for _ in range(n)]
+

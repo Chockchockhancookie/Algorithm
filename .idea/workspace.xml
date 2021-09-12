@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93181797-3316-44ef-bd0c-82f75657ec7f" name="Default Changelist" comment="0820">
-      <change afterPath="$PROJECT_DIR$/20056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/못풀고 있는 문제/1726.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11562.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16202.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17490.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MST/14950.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다시풀문제/20168.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다익스트라/9694.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/플로이드와샬/1613.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21924.py" beforeDir="false" afterPath="$PROJECT_DIR$/MST/21924.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20056.py" beforeDir="false" afterPath="$PROJECT_DIR$/못풀고 있는 문제/20056.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +53,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\이대홍\python_algorithm\못풀고 있는 문제" />
-      <recent name="C:\Users\이대홍\python_algorithm\MST" />
-      <recent name="C:\Users\이대홍\python_algorithm\그래프" />
       <recent name="C:\Users\이대홍\python_algorithm\플로이드와샬" />
-      <recent name="C:\Users\이대홍\python_algorithm\그리디" />
+      <recent name="C:\Users\이대홍\python_algorithm\다익스트라" />
+      <recent name="C:\Users\이대홍\python_algorithm\다시풀문제" />
+      <recent name="C:\Users\이대홍\python_algorithm\MST" />
+      <recent name="C:\Users\이대홍\python_algorithm\못풀고 있는 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.21924">
-    <configuration name="10159" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11562">
+    <configuration name="11562" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\그래프\10159.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11562.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1956" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1507" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\플로이드와샬\1956.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1507.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21924" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1613" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\MST\21924.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\플로이드와샬\1613.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2668" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20168" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\그래프\2668.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\다시풀문제\20168.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6593" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9694" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6593.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이대홍\python_algorithm\다익스트라\9694.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.21924" />
-        <item itemvalue="Python.10159" />
-        <item itemvalue="Python.2668" />
-        <item itemvalue="Python.6593" />
-        <item itemvalue="Python.1956" />
+        <item itemvalue="Python.11562" />
+        <item itemvalue="Python.1507" />
+        <item itemvalue="Python.1613" />
+        <item itemvalue="Python.9694" />
+        <item itemvalue="Python.20168" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631196924239</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="0910">
+      <created>1631281682602</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1631281682603</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,6 +401,7 @@
     <MESSAGE value="0907" />
     <MESSAGE value="0908" />
     <MESSAGE value="0909" />
-    <option name="LAST_COMMIT_MESSAGE" value="0909" />
+    <MESSAGE value="0910" />
+    <option name="LAST_COMMIT_MESSAGE" value="0910" />
   </component>
 </project>
