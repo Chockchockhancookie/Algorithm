@@ -1,3 +1,4 @@
+# 무게가 큰 것부터 시작하는게 포인트!
 import sys
 input = sys.stdin.readline
 

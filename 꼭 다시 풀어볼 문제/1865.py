@@ -33,6 +33,7 @@ for _ in range(t):
         s, e, t = map(int, input().split())
         edges[s].append([e, -t])
 
+    print(edges)
     check = True
     bellman_ford()
 
